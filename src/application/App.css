@@ -1,0 +1,15 @@
+.appHeader{
+    text-align: center;
+    font-family: "sans-serif";
+    padding: 20px;
+    color: #212529;
+}
+.col {
+    border-style: ridge;
+    text-align: center;
+    padding: 3px;
+}
+.col-no-border {
+    border-style: none;
+    margin: 2px
+}
