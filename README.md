@@ -23,8 +23,12 @@ User Management for below requirement
 
 # Features To add
   Adding i18n
+  
   Axios configuration for mock data
+  
   Error handling
+  
   Newly add recordeto se shown as first item
+  
   Load data while scrolling
   
