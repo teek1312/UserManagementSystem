@@ -22,6 +22,8 @@ User Management for below requirement
   yarn test
 
 # Features To add
+  Writing TCs
+  
   Adding i18n
   
   Axios configuration for mock data
